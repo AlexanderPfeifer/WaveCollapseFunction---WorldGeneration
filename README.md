@@ -1,1 +1,1 @@
-(https://raw.githubusercontent.com/AlexanderPfeifer/WorldGeneration/main/Assets/RandomGeneration.mp4)
+(https://raw.githubusercontent.com/AlexanderPfeifer/WorldGeneration/main/assets/RandomGeneration.mp4)
